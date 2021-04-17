@@ -22,25 +22,32 @@ and belong to them as well.
 
 # Images
 * Main Menu
-main.PNG
+
+![](https://github.com/Pratik-Hadiya/All-in-one-Convertor/blob/master/images/main.PNG)
   
 * Currency Convertor
-currency.PNG
+
+![](https://github.com/Pratik-Hadiya/All-in-one-Convertor/blob/master/images/currency.PNG)
 
 * Historical data of currency
-historical.PNG
+
+![](https://github.com/Pratik-Hadiya/All-in-one-Convertor/blob/master/images/historical.PNG)
 
 * Temparature Convertor
-Temperature.PNG
+
+![](https://github.com/Pratik-Hadiya/All-in-one-Convertor/blob/master/images/Temperature.PNG)
 
 * Length Convertor
-Length.PNG
+
+![](https://github.com/Pratik-Hadiya/All-in-one-Convertor/blob/master/images/Length.PNG)
   
 * Weight Convertor
-Weight.PNG
+
+![](https://github.com/Pratik-Hadiya/All-in-one-Convertor/blob/master/images/Weight.PNG)
 
 * Area convertor
-Area.PNG
+
+![](https://github.com/Pratik-Hadiya/All-in-one-Convertor/blob/master/images/Area.PNG)
 
 
 
