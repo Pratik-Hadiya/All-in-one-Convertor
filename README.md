@@ -1,15 +1,15 @@
-#All In One Convertor
+# All In One Convertor
 
 All in one converter application developed using python tkinter module
 
-#Liabraries Used
+# Liabraries Used
 
 * tkinter(GUI)
 * datetime
 * urllib.request
 * matplotlib
 
-#Features
+# Features
 
 1) currencies based on
 real-time prices and show the past values graph.
@@ -20,7 +20,7 @@ and belong to them as well.
 4) Weight convertor
 5) Area convertor
 
-#Images
+# Images
 * Main Menu
 
   
